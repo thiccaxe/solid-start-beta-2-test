@@ -1,0 +1,20 @@
+{
+  "name": "ioscomponents",
+  "type": "module",
+  "scripts": {
+    "dev": "vinxi dev",
+    "build": "vinxi build",
+    "start": "vinxi start"
+  },
+  "dependencies": {
+    "@floating-ui/dom": "^1.5.3",
+    "@solidjs/meta": "^0.29.2",
+    "@solidjs/router": "^0.10.5",
+    "@solidjs/start": "^0.4.2",
+    "solid-js": "^1.8.7",
+    "vinxi": "0.0.59"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
